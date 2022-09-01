@@ -1,0 +1,22 @@
+{
+  "name": "micro-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "keywords": [
+    "next",
+    "react",
+    "micro"
+  ],
+  "author": "Carl Lewis Castillo",
+  "license": "ISC",
+  "workspaces": [
+    "app1",
+    "app2",
+    "host"
+  ]
+}
